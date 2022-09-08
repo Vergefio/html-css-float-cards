@@ -30,11 +30,12 @@ p {
   height: 100px;
   background-color: rgb(202, 33, 33);
   color: yellow;
-  border: 2px solid #000;
   margin: 10px;
   float: left;
 }
 
 img {
+  width: 100px;
+  height: 100px;
   float: left;
 }
