@@ -33,10 +33,15 @@ a {
   font-family: 'Fredoka', sans-serif;
   font-size: 13px;
   color: #59b8d7;
+  text-decoration: none;
 }
 
 body, span {
   text-align: center;
+}
+
+#karim{
+  margin-bottom:10px;
 }
 
 .box {
@@ -47,6 +52,7 @@ body, span {
   margin: 1%;
   float: left;
   text-align: left;
+  box-shadow: 3px 3px 3px 3px #D3D3D2;
 }
 
 img {
