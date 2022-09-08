@@ -5,37 +5,39 @@
 }
 
 body {
-  width: 50%;
+  width: 60%;
   margin: 0 auto;
   background-color: white;
 }
 
 h1 {
+  color: #e52f6e;
   font-family: 'Fredoka One', cursive;
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
 }
 
 h3 {
   text-transform: uppercase;
   font-family: 'Fredoka One', cursive;
+  margin-top: 10px;
 }
 
 p {
-  padding-bottom: 2rem;
+  padding: 10px 0;
   font-family: 'Fredoka', sans-serif;
 }
 
 a{
   font-family: 'Fredoka', sans-serif;
+  font-size: 13px;
+  color: #59b8d7;
 }
 
-body,
-span {
+body span {
   text-align: center;
 }
-
 
 .box {
   width: 300px;
@@ -45,10 +47,12 @@ span {
   margin: 10px;
   float: left;
   text-align: left;
+
 }
 
 img {
   width: 100px;
   height: 100px;
+  margin-right: 10px;
   float: left;
 }
