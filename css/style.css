@@ -35,7 +35,7 @@ a{
   color: #59b8d7;
 }
 
-body span {
+body, span {
   text-align: center;
 }
 
